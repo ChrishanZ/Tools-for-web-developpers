@@ -30,6 +30,7 @@
 
 ## IMAGE COMPRESSION:
 * Compress All Images - https://compressor.io/compress
+* Compress All Images - https://www.iloveimg.com/compress-image
 * Compress JPG - http://jpeg-optimizer.com/
 * Compress PNG - https://tinypng.com/
 
@@ -55,6 +56,7 @@
 * Create Gradients - https://uigradients.com
 * CSS Button Generator - http://css3buttongenerator.com 
 * HTML Entity Lookup - http://entity-lookup.leftlogic.com/
+* Color palette generator - https://colorhunt.co/
 
 ## RESPONSIVENESS:
 * Device Testing - http://www.responsinator.com
@@ -68,6 +70,10 @@
 * Speed & Performance Testing - https://tools.keycdn.com/speed
 * Pingdom Speed Test - https://tools.pingdom.com/
 
+## CODE:
+* Stylesheet https://devhints.io/
+
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
 * Organized Docs for all Popular Web Technologies - https://devdocs.io
+
